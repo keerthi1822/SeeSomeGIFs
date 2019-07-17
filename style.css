@@ -1,0 +1,13 @@
+body {
+  background-image: url('gif.gif');
+  background-size: cover;
+  text-align: center;
+}
+p,
+h1 {
+  color: rgb(66, 94, 24);
+}
+img {
+  margin: auto;
+  width: 30%;
+}
